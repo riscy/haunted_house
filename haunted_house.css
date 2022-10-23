@@ -1,0 +1,12 @@
+html {
+  font:1.2em "Courier";
+  line-height: 1.75;
+  margin: auto;
+  max-width: 80ch;
+  padding: 0em 1em;
+}
+
+a {
+  text-decoration:none;
+  color: orange;
+}
